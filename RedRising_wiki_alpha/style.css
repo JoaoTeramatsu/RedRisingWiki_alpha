@@ -1,0 +1,40 @@
+body{
+    background-color:rgba(00, 00, 00, 0.5);
+}
+#red_font{
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 5px 5px #000000;
+    color:crimson
+}
+.background{
+    background-image: url(./images/h1_bg.jpg);
+    background-attachment: fixed;
+}
+.hex_bg{   
+    background-image: url(./images/hex_bg.png);
+    background-attachment: fixed;   
+}
+.black_font{
+    opacity: 1;
+    font-size: 26px;}
+
+.font_size{
+    font-size: 24px;
+}
+.table_text{
+    text-align: center;
+}
+#base{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.height-size{
+    font-size: 150%;
+}
