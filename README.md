@@ -1,2 +1,2 @@
 # Red_Rising_Wiki_alpha
- trying to create a wiki for a book that i like
+Trying to create a wiki for a book that I really love it
